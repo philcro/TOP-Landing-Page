@@ -6,6 +6,7 @@ The Odin Project 'Foundations' - Landing Page Project
 The design we’re providing you comes in the form of 2 images: one is an image of the complete website, and one has some details about some of the fonts and colors we’ve used."
 
 Link to provided design: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png
+
 Link to recommended fonts and color for this project: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png
 
 Live link to the completed landing page can be found to the right under the 'About'
